@@ -167,7 +167,7 @@ npm i -D lint-staged husky
 2. ```shift + ctrl + @```でパネルを表示「問題」タブでlintエラーを確認する。
 
 ## Visual Studio Codeでlintエラーを解決する(上記拡張機能を追加した場合)
-1. ```Command + shift + p``でコマンドパレットを表示
+1. ```Command + shift + p```でコマンドパレットを表示
 2. ```fix```と入力すると下記項目が出てくるので適宜選択する
 - stylelint: Fix all auto-fixable Problems
 - ESLint: Fix all auto-fixable Problems
